@@ -1,0 +1,203 @@
+*{padding: 0;
+    margin: 0;
+} 
+
+img{
+    max-width:100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.topline{       
+    font-size: larger;
+    align-content: center;
+    color: #272727;
+
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.topimg{display: flex;
+    height: 850px;
+background-color:rgba(229, 84, 115, 0.1);
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-around;
+border: 2px solid black;
+padding: 0px 0px;
+}
+.aimg{
+    margin-top: 55px;
+}
+.apera{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 50px 0px;
+}
+.abutton{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+background-color: rgba(229, 84, 115, 1);
+border-radius: 10px;
+color: aliceblue;
+}
+.classsection{
+    height: 1000px;
+    /* /* border: 5px black solid;/* */
+} 
+.flowerno1{
+    
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+    background-color: rgba(155, 27, 89, 0.15);
+    margin-right:  100px;
+    
+}
+.img1{
+    width: 310px;
+    height: 450px;
+    margin-top: 89px;
+    margin-right: 10px;
+}
+.pink{
+    
+    margin-top: 10px;
+}
+.flowerno2{
+    
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+    background-color: rgba(11, 156, 229, 0.15);
+    margin-right:  100px;
+}
+.img2{
+    width: 380px;
+    height: 410px;
+    margin-top: 130px;
+    margin-right: 10px;
+}
+.Mixed{
+    
+    margin-top: 10px;
+}
+.flowerno3{
+    
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+    background-color: rgba(182, 166, 16, 0.15);
+    margin-right:  100px;
+}
+.img3{
+    width: 310px;
+    height: 410px;
+    margin-top: 129px;
+    margin-right: 10px;
+}
+.Yellow{
+    
+    margin-top: 10px;
+}
+
+
+.Featured{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-around; */
+    
+}
+.Featured1{
+    text-align: center;
+}
+.FeaturedFlower{
+    margin: 50px 0px;
+    padding: 10px;
+    font-size: 50px;
+}
+.bpera{
+    margin: 50px 0px;
+    padding: 0px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.review{
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.ironman{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 200px;
+}
+.bonus{
+    background-color: rgb(225, 218, 196);
+    padding: 50px;
+    border-radius: 100px;
+
+}
+.hot{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.hotback{
+    background-color: rgb(244, 221, 204);
+    margin: 90px 0px;
+}
+.off{
+    color: rgba(229, 84, 115, 1);
+}
+.pic1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.margin1{
+    margin: 20px;
+}
+.latest{
+    
+background-image: url("/Backimg/Rectangle\ 9.png");
+height: 449px;
+width: 1440;
+margin:  20px 320px;
+background-position:center ;
+background-repeat: no-repeat;
+border: 1px black solid;
+background-size: cover;
+   
+
+}
+.subscribe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: row-reverse;
+
+}
